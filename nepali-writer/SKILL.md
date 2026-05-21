@@ -739,6 +739,28 @@ For verification and deep-dive learning:
 
 ---
 
+## Detailed Examples & References
+
+**For comprehensive examples and core wisdoms, see:**
+
+- **[Examples Index](examples/examples-index.md)** — Overview of all 6 detailed examples with quick reference
+  - [Example 1: Formal Business Letter](examples/example-1-formal-letter.md) — Government/official correspondence
+  - [Example 2: Social Media Content](examples/example-2-social-media.md) — Instagram/social marketing
+  - [Example 3: Technical Documentation](examples/example-3-technical-docs.md) — System requirements, specs
+  - [Example 4: Grammar Corrections](examples/example-4-grammar-corrections.md) — Common errors & fixes
+  - [Example 5: Translation Comparison](examples/example-5-translation-comparison.md) — Literal vs. natural
+  - [Example 6: Register Variations](examples/example-6-register-variations.md) — Formal/semi-formal/informal
+
+- **[Domain Wisdom Reference](references/domain-wisdom.md)** — 20 core principles + quick lookup tables
+  - Foundational wisdoms (SOV, honorics, dative, postpositions, vowel length, punctuation)
+  - Domain-specific wisdoms (formal, technical, social media, literary)
+  - Common AI mistakes to avoid
+  - Quick reference table (before/after patterns)
+
+**For internal context and workflow:** See [README-INTERNAL.md](../../README-INTERNAL.md) for agent use, limitations, and contribution workflow.
+
+---
+
 ## Related Skills
 
 **Pair with these skills for maximum impact:**

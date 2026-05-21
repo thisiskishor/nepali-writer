@@ -83,7 +83,7 @@ The skill loads automatically — no restart needed.
 
 ## How to Use
 
-Once installed, invoke nepali-writer with natural language or slash commands:
+Once installed, invoke nepali-writer with natural language or trigger phrases:
 
 ### Direct Commands
 ```
@@ -128,90 +128,26 @@ User: "Fix this: दिदि यहाँ बस् ।"
 Output:
 ✓ दिदी यहाँ बस्नुहोस् । (formal pronoun with formal verb)
   OR
-✓ तिमी यहाँ बस । (informal pronoun with informal verb)
+✓ दिदि यहाँ बस । (informal pronoun with informal verb)
 
 Explanation: Verb form must match pronoun honorific level
 ```
 
 ---
 
-## What You Get
+## Detailed Examples & References
 
-### Core Skill (`nepali-writer/SKILL.md`)
+- **[Examples Index](nepali-writer/examples/examples-index.md)** — 6 comprehensive examples across domains
+  - [Example 1: Formal Letter](nepali-writer/examples/example-1-formal-letter.md)
+  - [Example 2: Social Media](nepali-writer/examples/example-2-social-media.md)
+  - [Example 3: Technical Docs](nepali-writer/examples/example-3-technical-docs.md)
+  - [Example 4: Grammar Corrections](nepali-writer/examples/example-4-grammar-corrections.md)
+  - [Example 5: Translation Comparison](nepali-writer/examples/example-5-translation-comparison.md)
+  - [Example 6: Register Variations](nepali-writer/examples/example-6-register-variations.md)
 
-Complete guidance covering:
+- **[Domain Wisdom Reference](nepali-writer/references/domain-wisdom.md)** — 20 core principles + quick lookup
 
-**Foundations:**
-- Devanagari script and Nepali phonetics
-- SOV (Subject-Object-Verb) sentence structure
-- Three-level honorific system (critical for Nepali)
-- Verb conjugation (present, past, future, imperative)
-- Raswa/Dirgha (vowel length rules)
-- Postpositions and case markers
-- Punctuation with danda (।)
-
-**Usage Guides:**
-- Formal letters and official documents
-- Email writing conventions
-- Social media and conversational content
-- Technical documentation
-- Business communication
-- Literary/poetic Nepali
-- Domain-specific terminology
-
-**Common Mistakes:**
-- Wrong sentence structure (SVO vs SOV)
-- Honorific mismatches
-- Split honorific compounds (Padyog errors)
-- Raswa/Dirgha spelling mistakes
-- Postposition spacing issues
-- Literal English idiom translation
-- Latin period instead of danda
-
-**Translation Protocol:**
-- Step-by-step English → Nepali translation
-- Step-by-step Nepali → English translation
-- Register matching and tone preservation
-- Cultural context handling
-- Idiom adaptation
-
-### References
-
-**examples/** folder includes:
-- Formal letter samples (English + Nepali)
-- Business email templates
-- Social media content (multiple tones)
-- Technical documentation examples
-- Translation comparison examples
-
----
-
-## Skill Structure
-
-```
-nepali-writer/
-├── SKILL.md                       - Complete skill definition
-└── references/
-    └── domain-wisdom.md           - Nepal Academy standards & best practices
-```
-
----
-
-## Integration with Other Skills
-
-Nepali-writer pairs powerfully with:
-
-- **content-writing** → English content → Nepali translation
-- **email-writing** → English email structure → Nepali with correct honorifics
-- **copywriting-classic** → English marketing → Nepali localization
-- **code-recon** → Understand systems → Document in Nepali
-
-**Workflow Example:**
-```
-1. Use content-writing to structure English blog post
-2. Apply nepali-writer to translate/adapt to Nepali
-3. Result: Culturally appropriate, well-written Nepali content
-```
+- **[Internal Context Guide](README-INTERNAL.md)** — For agents/developers: architecture, limitations, workflows
 
 ---
 
@@ -253,6 +189,12 @@ This skill is based on:
 
 ---
 
+## Known Items for Review
+
+Some translations in examples are being refined. See [CONTRIBUTING.md - Known Items for Review](CONTRIBUTING.md#known-items-for-review) to submit corrections or improvements.
+
+---
+
 ## License & Attribution
 
 This skill is licensed under the MIT License with an **attribution requirement**.
@@ -266,17 +208,6 @@ This skill is licensed under the MIT License with an **attribution requirement**
 See [NOTICE.md](NOTICE.md) for full details.
 
 **Original author:** [Kishor Gartaula](https://github.com/thisiskishor) — [kishorgartaula.com.np](https://www.kishorgartaula.com.np)
-
----
-
-## Examples
-
-See [`examples/`](examples/) for:
-- Formal letter samples (before/after)
-- Translation examples (English ↔ Nepali)
-- Social media content (multiple registers)
-- Technical documentation examples
-- Grammar correction walkthroughs
 
 ---
 
