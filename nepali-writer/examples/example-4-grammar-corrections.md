@@ -31,7 +31,7 @@ Common Nepali writing errors and their corrections.
 
 ---
 
-## Error 2: Postposition Spacing
+## Error 2: Ergative Case with Intransitive Verb + Postposition Spacing
 
 ### ❌ Wrong
 ```
@@ -40,19 +40,24 @@ Common Nepali writing errors and their corrections.
 
 ### ✓ Correct
 ```
-मैले घरमा जान्छु ।
+म घरमा जान्छु ।
 ```
 
 ### Explanation
-- **Error:** Space between noun (घर) and postposition (मा)
-- **Fix:** Postpositions attach directly to nouns without space (घरमा)
-- **Rule:** Padyog/Padbiyog — postpositions are written as one word with the noun
-- **Why:** घर मा looks like two separate words; घरमा is a complete locative expression
+- **Error 1:** Using ergative case "मैले" with intransitive verb
+  - "जानु" (to go) is an intransitive verb
+  - Intransitive verbs use nominative case "म", not ergative "मैले"
+  - Ergative "मैले" is only for transitive verbs in past tense (e.g., मैले खाना खाएँ — I ate food)
+- **Error 2:** Space between noun (घर) and postposition (मा)
+- **Fix:** Use nominative "म" (not "मैले") + attach postposition directly (घरमा)
+- **Rule:** 
+  - Padyog/Padbiyog — postpositions attach directly to nouns without space
+  - Case marking: Intransitive verbs require nominative case in all tenses
 
-**Examples of correct attachment:**
-- टेबलमा (on the table) — not: टेबल मा
-- घरबाट (from home) — not: घर बाट
-- मेरोसँग (with me) — not: मेरो सँग
+**Examples of correct attachment and case marking:**
+- म घरमा जान्छु। (I go home — nominative "म" + locative postposition -मा)
+- उनी स्कुलबाट आई। (She came from school — nominative "उनी" + ablative postposition -बाट)
+- हामी काठमाडौँमा रहन्छौं। (We live in Kathmandu — nominative "हामी" + locative -मा)
 
 ---
 
@@ -166,10 +171,11 @@ Common Nepali writing errors and their corrections.
 | Category | ❌ Wrong | ✓ Correct | Issue |
 |----------|---------|-----------|-------|
 | Honorific | तिमी गर्नुहोस् | तपाईं गर्नुहोस् | Mismatch |
+| Case marking | मैले घरमा जान्छु | म घरमा जान्छु | Ergative with intransitive verb |
 | Postposition | घर मा | घरमा | Spacing |
 | Punctuation | छ. | छ । | Script |
 | Compound | गर्नु हुन्छ | गर्नुहुन्छ | Splitting |
-| Vowel | खुसि (unclear) | खुशी (happy) | Raswa/Dirgha |
+| Vowel | खुसी (unclear) | खुशी (happy) | Raswa/Dirgha |
 | Plural | हरु | हरू | Dirgha in suffix |
 
 ---

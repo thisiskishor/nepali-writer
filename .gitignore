@@ -1,0 +1,15 @@
+# Internal Research & Development Files (Not for GitHub)
+.research-findings.md
+AUDIT_REPORT.md
+.claude/
+.DS_Store
+*.swp
+*.swo
+*~
+.env
+node_modules/
+dist/
+build/
+.vscode/
+.idea/
+*.log

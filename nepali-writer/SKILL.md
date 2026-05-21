@@ -91,7 +91,7 @@ Once installed, invoke nepali-writer with any of these:
 
 उपर्युक्त विषयमा यस कार्यालयमा निवेदन दिनु परेकाले सादर निवेदन गर्दछु कि प्रकल्प
 प्रस्तुत गर्ने समयसीमा अलिकति बढाइपाऊँ भनी विनती गर्दैछु। अप्रत्याशित परिस्थितिले गर्दा
-आमाद टोलीलाई काम सन्तोषजनक रूपमा सम्पन्न गर्न थप दुई हप्ता आवश्यक भएको छ।
+हाम्रो टोलीलाई काम सन्तोषजनक रूपमा सम्पन्न गर्न थप दुई हप्ता आवश्यक भएको छ।
 
 हामी गुणस्तर र समयमै डेलिभरीको प्रति आफ्नो प्रतिबद्धता निरन्तर रहेको कुरामा आश्वस्त गर्दछौं।
 यस व्यवस्था स्वीकार्य छ वा छैन भनी कृपया सूचित गर्नुहोस्।
@@ -156,7 +156,7 @@ Once installed, invoke nepali-writer with any of these:
 **Submitted Nepali text:**
 ```
 ❌ दिदि यहाँ बस् । (informal with formal pronoun mismatch)
-❌ मैले घर मा जान्छु । (space in postposition)
+❌ मैले घर मा जान्छु । (ergative case with intransitive verb + space in postposition)
 ❌ यो राम्रो छ. (Latin period instead of danda)
 ❌ गर्नु हुन्छ (split honorific compound)
 ```
@@ -165,9 +165,9 @@ Once installed, invoke nepali-writer with any of these:
 ```
 ✓ दिदी यहाँ बस्नुहोस् । (formal pronoun with formal verb)
   OR
-✓ तिमी यहाँ बस् । (informal pronoun with informal verb)
+✓ तिमी यहाँ बस । (informal pronoun with informal verb)
 
-✓ मैले घरमा जान्छु । (postposition attached)
+✓ म घरमा जान्छु । (nominative case for intransitive verb जानु + postposition attached)
 
 ✓ यो राम्रो छ । (danda used)
 

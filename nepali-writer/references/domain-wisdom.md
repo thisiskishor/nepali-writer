@@ -137,14 +137,24 @@ Core principles and reference guide for Nepali writing, extracted from Nepal Aca
 
 ---
 
-### 12. Incorrect Verb Selection
-**Problem:** Using English verbs transliterated instead of Nepali verbs.  
+### 12. Incorrect Verb Selection & Transitive/Intransitive Confusion
+**Problem:** Using English verbs transliterated instead of Nepali verbs, OR confusing transitive verbs with intransitive verbs for case marking.
+
 **Examples:**
 - "Please sit" ≠ "कृपया सिट गर्नुहोस्" (sit do — calqued from English)
 - "Please sit" = "कृपया बस्नुहोस्" (Nepali verb बस्नु)
 
-**Affected verbs:** sit (बस्नु), stand (खड़ा हुनु), go (जानु), come (आउनु)  
-**Solution:** Use native Nepali verbs, not English verbs with गर्नु.
+**Case marking error (Transitive vs Intransitive):**
+- **Intransitive verb error:** "मैले घरमा जान्छु" (WRONG — जानु is intransitive)
+  - Correct: "म घरमा जान्छु" (nominative case)
+- **Why:** Intransitive verbs (जानु = go, आउनु = come, बस्नु = sit) always use nominative case "म"
+- **Transitive verb correct:** "मैले खाना खाएँ" (CORRECT — खानु is transitive, past tense)
+
+**Affected verbs:** 
+- Intransitive: sit (बस्नु), stand (खड़ा हुनु), go (जानु), come (आउनु)
+- Transitive: do (गर्नु), eat (खानु), write (लेख्नु), make (बनाउनु)
+
+**Solution:** Use native Nepali verbs, not English verbs with गर्नु. Verify transitive vs intransitive to apply correct case marking.
 
 ---
 
@@ -239,11 +249,12 @@ Core principles and reference guide for Nepali writing, extracted from Nepal Aca
 |---------|---------|-----------|--------|
 | SVO order | I coffee drink | म कफी पिन्छु | SOV required |
 | Honorific mismatch | तिमी गर्नुहोस् | तपाईं गर्नुहोस् | Match pronoun + verb |
+| Case marking (intrans) | मैले घरमा जान्छु | म घरमा जान्छु | Intransitive verb needs nominative |
 | Dative emotion | म खुसी छु | मलाई खुशी लाग्यो | Use dative |
 | Postposition space | घर मा | घरमा | Attach without space |
 | Raswa/Dirgha | दिदि (unclear) | दिदी (elder sister) | Vowel length matters |
 | Wrong punctuation | छ. | छ । | Use danda |
-| Literal translation | सिट गर्नु | बस्नु | Translate idiomatically |
+| Literal translation | सिट गर्नु | बस्नु | Use native Nepali verbs |
 | Subject in weather | यो पानी पर्दैछ | पानी पर्दैछ | Subject implied |
 | Compound splitting | गर्नु हुन्छ | गर्नुहुन्छ | One word |
 | Tone mismatch | Formal to friend | Informal to friend | Match register |
