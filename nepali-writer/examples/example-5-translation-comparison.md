@@ -106,7 +106,7 @@ In Nepali:
 | **Sound** | Artificial, not native | Natural Nepali |
 
 **Other verb examples:**
-- "Stand up" → खड़ा हुनुहोस् (not "stand do")
+- "Stand up" → खडा हुनुहोस् (not "stand do")
 - "Lie down" → सुत्नुहोस् (not "lie do")
 
 ---
@@ -140,9 +140,9 @@ In Nepali:
 | **Naturalness** | Never used in Nepali | Recognized greeting |
 
 **Other greetings:**
-- "Good evening" → शुभ साँझ / सुसाँझ
-- "Good night" → शुभ रात्रि / सुरात्रि
-- "Welcome" → स्वागत छ / आउनुस् भनेर आमन्त्रण छ
+- "Good evening" → शुभ साँझ / शुभ सन्ध्या
+- "Good night" → शुभ रात्रि / शुभ निद्रा
+- "Welcome" → स्वागत छ / स्वागतम्
 
 ---
 
@@ -173,7 +173,7 @@ Understanding is experienced (dative) not performed:
 | English | Literal (Wrong) | Natural (Correct) |
 |---------|---|---|
 | "Thank you" | धन्यवाद ग्राह गर्छु | हार्दिक धन्यवाद |
-| "I'm sorry" | मलाई माफ गर् | मुझे माफ गर / मलाई गलती भयो |
+| "I'm sorry" | मलाई माफ गर् | मलाई माफ गर्नुहोस् / मलाई गलती भयो |
 | "You're right" | तपाईं सही हुनुहुन्छ | तपाईंको कुरा ठिक छ |
 
 ---

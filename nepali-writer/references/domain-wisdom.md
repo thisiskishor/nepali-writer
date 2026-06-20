@@ -53,7 +53,7 @@ Core principles and reference guide for Nepali writing, extracted from Nepal Aca
 **Example pairs:**
 | Short (Raswa) | Meaning | Long (Dirgha) | Meaning |
 |---|---|---|---|
-| दिदि | younger sister | दिदी | elder sister |
+| दिदि | elder sister (informal/incorrect spelling) | दिदी | elder sister (correct spelling) |
 | पनि | also/too | पानी | water |
 | कुरा | matter/thing | कुरा | (same, but emphasis varies) |
 
@@ -151,7 +151,7 @@ Core principles and reference guide for Nepali writing, extracted from Nepal Aca
 - **Transitive verb correct:** "मैले खाना खाएँ" (CORRECT — खानु is transitive, past tense)
 
 **Affected verbs:** 
-- Intransitive: sit (बस्नु), stand (खड़ा हुनु), go (जानु), come (आउनु)
+- Intransitive: sit (बस्नु), stand (खडा हुनु), go (जानु), come (आउनु)
 - Transitive: do (गर्नु), eat (खानु), write (लेख्नु), make (बनाउनु)
 
 **Solution:** Use native Nepali verbs, not English verbs with गर्नु. Verify transitive vs intransitive to apply correct case marking.
@@ -243,7 +243,116 @@ Core principles and reference guide for Nepali writing, extracted from Nepal Aca
 
 ---
 
-## Quick Reference: Before & After
+---
+
+## Part 6: Advanced Grammar Wisdoms
+
+### 21. Evidentiality Is Not Optional — Mark Your Source
+**Problem:** Most AI ignores evidentiality entirely, stating all information as directly witnessed.
+**Rule:** Nepali grammatically encodes *where information comes from*:
+- Direct (you witnessed it): plain verb — उ आयो (he came — I saw it)
+- Hearsay (you heard it): + रे — उ आयो रे (he came, apparently — I heard)
+- Inferential (you deduce it): -एछ suffix — गएछ (seems to have gone — I infer)
+
+**Critical in:** News writing, gossip, reported speech, narrative distance.
+**Why:** Using direct forms for unverified information is both inaccurate and sounds unnatural.
+
+---
+
+### 22. आफ्नो vs उनको — Reflexive Changes Meaning Entirely
+**Rule:** आफ्नो/आफू = refers back to the subject; उनको = refers to a different person.
+**Wrong:** रामले उनको घर बेचे (Ram sold their [other person's] house)
+**Correct (if Ram's own house):** रामले आफ्नो घर बेचे
+**Why:** Using the wrong pronoun is not a style error — it changes who owns the house.
+
+---
+
+### 23. Aspect Selection — Match the Aspect to the Meaning
+**Rule:** Choose verb aspect based on how the action relates to now:
+- Habit/general truth now → Simple present (गर्छु)
+- Happening at this moment → Progressive (गर्दैछु)
+- Completed, result still relevant → Perfect (गरेको छु)
+- Completed in the past, no link to now → Simple past (गरेँ)
+- Repeated habit in the past, no longer → Habitual past (गर्थें)
+
+**Most missed:** Habitual past गर्थें for "used to" — AI almost always uses simple present instead.
+**Why:** Aspect changes the meaning of the sentence fundamentally.
+
+---
+
+### 24. Negation Patterns Vary by Tense
+**Rule:** Each tense has its own negative form — there is no universal "not":
+| Tense | Affirmative | Negative |
+|-------|-------------|---------|
+| Simple present | गर्छु | गर्दिनँ |
+| Perfect present | गरेको छु | गरेको छैन |
+| Simple past | गरेँ | गरेन |
+| Future | गर्नेछु | गर्नेछैन |
+| Imperative (formal) | गर्नुहोस् | नगर्नुहोस् |
+
+**Why:** Using the wrong negative form sounds ungrammatical.
+
+---
+
+### 25. Conditional Requires Specific Verb Forms
+**Three conditional types — each with its own pattern:**
+- Real/likely: यदि + [past verb] + भने → future result
+- Hypothetical: [verb]-एको भए → habitual past result
+- General: [verb]-ए / -यो + भने → simple present result
+
+**Common error:** Using future tense in the condition clause (यदि गर्नेछ भने — WRONG).
+**Why:** Conditional meaning depends on these specific forms.
+
+---
+
+### 26. Relative Clauses Go BEFORE the Noun in Nepali
+**Rule:** Nepali relative clauses are pre-nominal (before the noun), the opposite of English.
+**Wrong (English order):** मान्छे जो हिजो आयो... (man who yesterday came)
+**Correct (participial):** हिजो आएको मान्छे... (yesterday-came man)
+**Correct (jO construction):** जो मान्छे हिजो आयो, त्यो... (who man yesterday came, that...)
+**Why:** Post-nominal relative clauses simply don't exist in standard Nepali.
+
+---
+
+### 27. Formal Nepali PREFERS Passive Voice
+**Rule:** This is the opposite of English style advice. In formal/official Nepali:
+- Government notices use passive: सूचित गरिन्छ (it is notified)
+- Official requests: अनुरोध गरिन्छ (it is requested)
+- Past decisions: निर्णय गरियो (a decision was made)
+
+**Why:** Passive removes personal agency and conveys official impersonality — valued in Nepali bureaucratic register.
+
+---
+
+### 28. Use Devanagari Numerals in Formal Documents
+**Rule:** Government, legal, and official Nepali documents use Devanagari numerals (०–९), not Arabic (0–9).
+- ✓ मिति: २०८१ फागुन १५ (formal)
+- ✗ मिति: 2081 Falgun 15 (informal/English-mixed)
+
+**Large numbers:** Nepal uses लाख (100,000) and करोड (10,000,000) — not million/billion.
+**Why:** This is the Nepal government standard.
+
+---
+
+### 29. BS Calendar Is Nepal's Official Calendar — Know the Months
+**Rule:** Nepal uses Bikram Sambat (BS/विक्रम संवत्), running ~56 years 8 months ahead of AD.
+**Months in order:** बैशाख, जेठ, असार, साउन, भदौ, असोज, कार्तिक, मंसिर, पुस, माघ, फागुन, चैत
+**Official date format:** मिति २०८१ फागुन १५
+**Why:** Using AD dates in formal Nepali government documents is incorrect.
+
+---
+
+### 30. हो vs छ — Permanent Identity vs Temporary State
+**Rule:**
+- **हो** = permanent identity, definition, category — ऊ डाक्टर हो (he IS a doctor)
+- **छ** = temporary state, location, existence — ऊ घरमा छ (he is AT HOME right now)
+
+**Negative forms:** होइन (not — identity) vs छैन (not — state/location)
+**Why:** Using छ where हो is needed implies the identity is temporary; using हो where छ belongs implies a permanent state. Both are errors.
+
+---
+
+## Quick Reference: Before & After (Updated)
 
 | Mistake | ❌ Wrong | ✓ Correct | Wisdom |
 |---------|---------|-----------|--------|
@@ -252,12 +361,19 @@ Core principles and reference guide for Nepali writing, extracted from Nepal Aca
 | Case marking (intrans) | मैले घरमा जान्छु | म घरमा जान्छु | Intransitive verb needs nominative |
 | Dative emotion | म खुसी छु | मलाई खुशी लाग्यो | Use dative |
 | Postposition space | घर मा | घरमा | Attach without space |
-| Raswa/Dirgha | दिदि (unclear) | दिदी (elder sister) | Vowel length matters |
+| Raswa/Dirgha | दिदि (wrong spelling) | दिदी (elder sister — correct) | Vowel length matters; younger sister = बहिनी |
 | Wrong punctuation | छ. | छ । | Use danda |
 | Literal translation | सिट गर्नु | बस्नु | Use native Nepali verbs |
 | Subject in weather | यो पानी पर्दैछ | पानी पर्दैछ | Subject implied |
 | Compound splitting | गर्नु हुन्छ | गर्नुहुन्छ | One word |
 | Tone mismatch | Formal to friend | Informal to friend | Match register |
+| Evidentiality ignored | उ आयो (hearsay) | उ आयो रे | Mark information source |
+| Reflexive wrong | रामले उनको घर बेचे | रामले आफ्नो घर बेचे | आफ्नो = subject's own |
+| Aspect: habitual past | म सानो हुँदा दौड्छु | म सानो हुँदा दौड्थें | Habitual past for "used to" |
+| Relative clause order | मान्छे जो आयो | हिजो आएको मान्छे | Pre-nominal in Nepali |
+| Copula confusion | ऊ घरमा हो | ऊ घरमा छ | छ for location |
+| Copula confusion | ऊ डाक्टर छ | ऊ डाक्टर हो | हो for identity |
+| Arabic numerals | 2081 फागुन 15 | २०८१ फागुन १५ | Devanagari in formal docs |
 
 ---
 
@@ -273,10 +389,14 @@ Core principles and reference guide for Nepali writing, extracted from Nepal Aca
 ## Related Resources
 
 - [SKILL.md](../SKILL.md) — Complete foundational knowledge
+- [Verb System](verb-system.md) — Complete conjugation tables
+- [Grammar Deep Reference](grammar-deep.md) — Evidentiality, relative clauses, passive, conditionals
+- [Vocabulary Domains](vocabulary-domains.md) — Legal, medical, academic, government terms
+- [Idioms & Proverbs](idioms-proverbs.md) — Authentic Nepali expressions
+- [Numbers, Dates & Time](numbers-dates-time.md) — BS calendar, numerals, time
 - [Examples Index](../examples/examples-index.md) — Real-world applications of these wisdoms
-- [Example 4: Grammar Corrections](../examples/example-4-grammar-corrections.md) — Detailed correction patterns
 - Nepal Academy Standards (external reference)
 
 ---
 
-**These 20 wisdoms form the foundation of accurate, natural Nepali writing. Master these, and you'll write with confidence.**
+**These 30 wisdoms form the foundation of accurate, natural Nepali writing. Master these, and you'll write with confidence.**

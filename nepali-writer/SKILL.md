@@ -121,7 +121,7 @@ Once installed, invoke nepali-writer with any of these:
 ```
 
 **Notes:**
-- Informal register (तिमी level), friendly tone
+- Semi-formal register — social media commonly uses तपाईं-level imperatives (आउनुहोस्) even in friendly/casual contexts; this is natural and not stiff
 - Conversational word order acceptable
 - Modern vocabulary (शप, पेस्ट्री, ट्याग — loanwords acceptable in informal digital content)
 - Natural, not overly formal
@@ -386,6 +386,146 @@ English → Nepali is NOT word-for-word.
 ### Mistake 10: Using English Loanwords in Formal Writing
 - Avoid (informal): इन्टरनेट, कम्प्युटर, अफिस, स्कुल
 - Prefer (formal): अन्तरजाल, सङ्गणक, कार्यालय, विद्यालय
+
+### Mistake 11: Ignoring Evidentiality
+Nepali grammatically marks information source. Stating hearsay as direct fact is a serious naturalness error.
+- ✗ काठमाडौँमा भूकम्प गयो । (stated as directly witnessed — wrong for reported news)
+- ✓ काठमाडौँमा भूकम्प गएको छ रे । (reportedly — hearsay marker रे)
+- ✓ प्रहरीका अनुसार भूकम्प गएको छ भनी जनाइएको छ । (attributed to police)
+- Direct witness → plain verb; Heard from someone → + रे; Inferred from evidence → -एछ suffix
+
+### Mistake 12: आफ्नो vs उनको Confusion
+These are NOT interchangeable. Wrong choice changes who owns/does something.
+- ✗ रामले उनको घर बेचे । (Ram sold someone else's house — probably unintended)
+- ✓ रामले आफ्नो घर बेचे । (Ram sold his own house)
+- **Rule:** When the possessive refers to the sentence's own subject → आफ्नो. Different person → उनको/उसको.
+
+### Mistake 13: हो vs छ Copula Confusion
+- ✗ ऊ घरमा हो । (WRONG — using identity copula for location)
+- ✓ ऊ घरमा छ । (CORRECT — छ for location/temporary state)
+- ✗ ऊ डाक्टर छ । (ambiguous — implies temporary)
+- ✓ ऊ डाक्टर हो । (CORRECT — हो for permanent identity)
+- **Rule:** हो = permanent identity/definition. छ = location, temporary state, existence.
+
+### Mistake 14: Using Simple Present Where Habitual Past Is Needed
+When describing past routines ("used to"), habitual past (गर्थें) is required — not simple present.
+- ✗ म सानो हुँदा हरेक बिहान दौड्छु । (sounds like a present habit)
+- ✓ म सानो हुँदा हरेक बिहान दौड्थें । (used to run — habitual past)
+- **Pattern:** stem + -थें/-थ्यौ/-थ्यो/-थे/-थ्यौं
+
+### Mistake 15: Wrong Conditional Formation
+- ✗ यदि पानी पर्छ भने (present tense in condition — unnatural in formal Nepali)
+- ✓ यदि पानी पर्यो भने (past tense in condition — correct)
+- ✗ पैसा भएको भए, म किन्नेछु (future in counterfactual — wrong mood)
+- ✓ पैसा भएको भए, म किन्थेँ (habitual past in counterfactual result — correct)
+
+### Mistake 16: English-Order Relative Clauses
+Nepali relative clauses go BEFORE the noun, not after.
+- ✗ मान्छे जो हिजो आयो (English post-nominal order — WRONG)
+- ✓ हिजो आएको मान्छे (participial pre-nominal — CORRECT)
+- ✓ जो मान्छे हिजो आयो, त्यो... (जो construction — also correct)
+
+### Mistake 17: Wrong Negative Imperative
+Negative imperatives follow their own forms — do not simply add "न" to a random verb form.
+- ✓ नगर्नुहोस् (formal negative imperative — तपाईं level)
+- ✓ नगर्नुस् (mid-level negative imperative — also standard and widely used)
+- ✓ नगर (informal negative imperative — तिमी level)
+- ✓ नगर् (low register negative imperative — तँ level)
+
+Note: गर्नुस् (affirmative, mid-level) IS a standard and widely used Nepali imperative form — do not avoid it.
+
+### Mistake 18: Using Arabic Numerals in Formal Nepali Documents
+- ✗ मिति: 2081/11/15 (Arabic — wrong for formal Nepali)
+- ✓ मिति: २०८१ मंसिर १५ (Devanagari numerals + month name — correct)
+- **Note:** Large numbers use लाख (100,000) and करोड (10,000,000), not million/billion.
+
+---
+
+## Part 2b: Complete Verb Aspect System
+
+Nepali expresses not just *when* but *how* an action relates to the present moment. Choosing the wrong aspect is a major error.
+
+| Aspect | Form (म) | Meaning | Example |
+|--------|----------|---------|---------|
+| **Simple present** | गर्छु | habitual / general truth | म हरेक दिन पढ्छु । |
+| **Progressive present** | गर्दैछु | happening right now | म अहिले पढ्दैछु । |
+| **Perfect present** | गरेको छु | completed, still relevant to now | मैले काम गरेको छु । |
+| **Simple past** | गरेँ | completed (transitive) | मैले खाना खाएँ । |
+| **Habitual past** | गर्थें | used to do (no longer) | म बिहान दौड्थें । |
+| **Progressive past** | गर्दैथिएँ | was doing (in the past) | म पढ्दैथिएँ जब... |
+| **Perfect past** | गरेको थिएँ | had done (pluperfect) | म गइसकेको थिएँ । |
+| **Future** | गर्नेछु | will do | म भोलि जानेछु । |
+
+**Key distinction — habitual past vs simple past:**
+- Simple past = one specific event: मैले हिजो खाना खाएँ (I ate yesterday)
+- Habitual past = repeated pattern, no longer happening: म त्यहाँ खान्थें (I used to eat there)
+
+For the complete conjugation table across all honorific levels, see **[Verb System Reference](references/verb-system.md)**.
+
+---
+
+## Part 2c: Critical Grammar Features
+
+### Evidentiality
+Nepali encodes the *source* of information in the grammar:
+- **Direct (witnessed):** plain verb — उ आयो (he came — I saw it)
+- **Hearsay:** + रे — उ आयो रे (he came, apparently)
+- **Inferential:** -एछ — गएछ (seems to have gone)
+
+This is mandatory in news writing and narrative. See **[Grammar Deep Reference](references/grammar-deep.md)** for full detail.
+
+### Reflexive Pronoun आफू
+**आफ्नो** = refers to the subject of the same clause (own). **उनको** = different person.
+- रामले आफ्नो काम गरे (Ram did his own work)
+- रामले उनको काम गरे (Ram did their [someone else's] work)
+
+### Copula हो vs छ
+- **हो** = permanent identity: ऊ शिक्षक हो
+- **छ** = temporary state/location: ऊ कक्षामा छ
+
+### Relative Clauses
+Nepali relative clauses are **pre-nominal** (before the noun):
+- Participial: हिजो आएको मान्छे (the man who came yesterday)
+- जो construction: जो मान्छे आयो, त्यो... (the man who came, that...)
+
+### Conditional Sentences
+- Real condition: यदि + [past verb] + भने → future result
+- Hypothetical: [verb]-एको भए → habitual past result
+- General: [verb]-ए + भने → simple present result
+
+### Passive Voice
+Formal Nepali **prefers** passive for official announcements:
+- सूचित गरिन्छ (it is notified)
+- निर्णय गरियो (a decision was made)
+
+For full coverage of all these features, see **[Grammar Deep Reference](references/grammar-deep.md)**.
+
+---
+
+## Part 2d: Nepali Numbers, Dates & Time
+
+### Numerals
+- **Formal documents:** Use Devanagari numerals ०–९
+- **Informal/digital:** Arabic 0–9 accepted
+
+### Large Number Units
+Nepal uses **लाख** (100,000) and **करोड** (10,000,000) — not million/billion:
+- 5 lakh = ५,००,००० (not 500,000)
+- 2 crore = २,००,००,००० (not 20,000,000)
+
+### Official Date Format (BS Calendar)
+Nepal's official calendar is **Bikram Sambat (विक्रम संवत्)**:
+- Format: मिति २०८१ फागुन १५
+- Months: बैशाख, जेठ, असार, साउन, भदौ, असोज, कार्तिक, मंसिर, पुस, माघ, फागुन, चैत
+- BS year ≈ AD year + 56 (approximately)
+
+### Time
+Nepal does not use AM/PM — use parts of day:
+- बिहानको ९ बजे (9 in the morning)
+- साँझको ६ बजे (6 in the evening)
+- साढे ३ बजे (3:30), पौने ५ बजे (4:45), सवा २ बजे (2:15)
+
+For complete reference, see **[Numbers, Dates & Time](references/numbers-dates-time.md)**.
 
 ---
 
@@ -750,12 +890,54 @@ For verification and deep-dive learning:
   - [Example 4: Grammar Corrections](examples/example-4-grammar-corrections.md) — Common errors & fixes
   - [Example 5: Translation Comparison](examples/example-5-translation-comparison.md) — Literal vs. natural
   - [Example 6: Register Variations](examples/example-6-register-variations.md) — Formal/semi-formal/informal
+  - [Example 7: Nepali → English](examples/example-7-nepali-to-english.md) — Full worked translations with parsing
+  - [Example 8: Advanced Grammar in Context](examples/example-8-advanced-grammar.md) — Evidentiality, aspects, conditionals, reflexives
 
-- **[Domain Wisdom Reference](references/domain-wisdom.md)** — 20 core principles + quick lookup tables
+- **[Domain Wisdom Reference](references/domain-wisdom.md)** — 30 core principles + quick lookup tables
   - Foundational wisdoms (SOV, honorics, dative, postpositions, vowel length, punctuation)
   - Domain-specific wisdoms (formal, technical, social media, literary)
-  - Common AI mistakes to avoid
+  - Advanced wisdoms (evidentiality, reflexives, aspect, conditionals, passives, numbers)
   - Quick reference table (before/after patterns)
+
+- **[Verb System Reference](references/verb-system.md)** — Complete conjugation tables
+  - All tenses and aspects: present, progressive, perfect, past, habitual past, future
+  - Negation for every tense
+  - Modal constructions (must, can, may, want to)
+  - Causative verb pairs
+  - Conjunct/compound verbs
+
+- **[Grammar Deep Reference](references/grammar-deep.md)** — Advanced grammar features
+  - Evidentiality (direct, hearsay रे, inferential -एछ)
+  - Reflexive pronoun आफू vs उनको
+  - Copula हो vs छ
+  - Pre-nominal relative clauses
+  - Passive voice formation
+  - Nominalization patterns
+  - Conditional sentence types
+  - Chandrabindu vs Shirbindu
+  - Conjunctions and discourse markers
+
+- **[Vocabulary Domains Reference](references/vocabulary-domains.md)** — Domain-specific terms
+  - Legal (courts, cases, documents, parties)
+  - Medical (providers, conditions, procedures)
+  - Academic (research, institutions, writing phrases)
+  - Journalism (roles, news conventions, attribution phrases)
+  - Technology (computing, digital terms)
+  - Government/Bureaucratic (ministries, titles, official phrases)
+  - Business/Finance (company, accounting, contracts)
+
+- **[Idioms & Proverbs Reference](references/idioms-proverbs.md)** — Authentic Nepali expressions
+  - 30+ proverbs (उखान-टुक्का) with English equivalents
+  - 20+ common idioms
+  - Usage guidelines (when proverbs are/aren't appropriate)
+  - Modern urban expressions
+
+- **[Numbers, Dates & Time Reference](references/numbers-dates-time.md)** — Complete numeric reference
+  - Devanagari vs Arabic numerals (when to use each)
+  - Cardinal and ordinal numbers
+  - BS calendar months and date format
+  - Days of the week (Nepal's Saturday-only weekend)
+  - Clock time without AM/PM
 
 **For internal context and workflow:** See [README-INTERNAL.md](../../README-INTERNAL.md) for agent use, limitations, and contribution workflow.
 

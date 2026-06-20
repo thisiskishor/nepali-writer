@@ -135,7 +135,7 @@ Common Nepali writing errors and their corrections.
 **Common Raswa/Dirgha confusions:**
 | Word | Raswa (short) | Dirgha (long) | Meaning |
 |------|---|---|---|
-| दिदि vs दिदी | younger sister | elder sister |
+| दिदि vs दिदी | incorrect spelling of elder sister | दिदी = correct spelling (elder sister; younger sister = बहिनी) |
 | खुसि vs खुशी | not standardized | happy |
 | कुरा vs कुरां | not standardized | matter/thing |
 
